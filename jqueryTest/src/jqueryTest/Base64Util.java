@@ -14,9 +14,6 @@ public class Base64Util {
 	public static String decryptBase64(String data) throws IOException{
 		byte[]  resultBytes = new BASE64Decoder().decodeBuffer(data);
 		return  new String(resultBytes);
-		
-		
-		
 	}
 	
 	
