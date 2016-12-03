@@ -61,7 +61,7 @@ public static void main(String[] args) throws IOException {
 	System.out.println("wdefcsefwef");
 	System.out.println("Ã·Ωª");
 
-	
+
 	
 }
 }
