@@ -8,7 +8,7 @@ public static void main(String[] args) throws IOException {
 	String base64Result  = Base64Util.encryptBase64(Data.getBytes());
 	String  test = Base64Util.decryptBase64(base64Result);
 	System.out.println(base64Result+test);
-	System.out.println("11111111111111weeeeeesdcsdoisaiudhweiu");
+	System.out.println("1111111111111wqwq1weeeeeesdcsdoisaiudhweiu");
 	System.out.println("1234566");
 	System.out.println("1234566");
 	System.out.println("1234566");
