@@ -10,6 +10,8 @@ public static void main(String[] args) throws IOException {
 	System.out.println(base64Result+test);
 	System.out.println("11111111111111weeeeeesdcsdoisaiudhweiu");
 	System.out.println("1234566");
+	System.out.println("1234566");
+	System.out.println("1234566");
 	
 	
 	
