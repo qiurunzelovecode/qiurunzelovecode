@@ -7,52 +7,6 @@ public class base64Test {
 public static void main(String[] args) throws IOException {
 	String base64Result  = Base64Util.encryptBase64(Data.getBytes());
 	String  test = Base64Util.decryptBase64(base64Result);
-	System.out.println(base64Result+test);
-	System.out.println("1111111111111wqwq1weeeeeesdcsdoisaiudhweiu");
-
-	
-	System.out.println("1234566");
-	System.out.println("1234566");
-	System.out.println("1234566");
-	
-	System.out.println("1234566");
-	System.out.println("nihao");
-	System.out.println("1234566");
-	System.out.println("1234566");
-	
-	System.out.println("1234566");
-	System.out.println("1234566");
-	System.out.println("1234566");
-	
-	System.out.println("1234566");
-	System.out.println("1234566");
-	System.out.println("1234566");
-	
-	System.out.println("1234566");
-	System.out.println("1234566");
-	System.out.println("1234566");
-	System.out.println("1234566");
-	System.out.println("1234566");
-	System.out.println("1234566");
-	System.out.println("1234566");
-	System.out.println("1234566");
-	System.out.println("1234566");
-	System.out.println("1234566");
-	System.out.println("1234566");
-	System.out.println("1234566");
-	System.out.println("1234566");
-	System.out.println("1234566");
-	System.out.println("123456o6iio");
-	System.out.println("1234566");
-	System.out.println("1234566");
-	System.out.println("1234566");
-	System.out.println("1234566");
-	System.out.println("1234566");
-	System.out.println("1234566");
-	System.out.println("1234566");
-	System.out.println("1234566");
-	System.out.println("1234566");
-	System.out.println("1234566");
 	System.out.println("1234566");
 	System.out.println("1234566");
 	System.out.println("1234566");
