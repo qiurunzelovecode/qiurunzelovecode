@@ -13,6 +13,7 @@ public static void main(String[] args) throws IOException {
 	
 	System.out.println("1234566");
 	System.out.println("1234566");
+	System.out.println("1234566");
 	
 	System.out.println("1234566");
 	System.out.println("1234566");
