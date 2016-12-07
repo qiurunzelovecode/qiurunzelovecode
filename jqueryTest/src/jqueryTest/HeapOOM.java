@@ -10,7 +10,8 @@ public class HeapOOM {
 		List<OOMObject> list = new ArrayList<HeapOOM.OOMObject>();
 		while (true) {
 			list.add(new OOMObject());
-			System.out.println("ceshineicun ");
+			System.out.println("ceshineicun333333 ");
+			
 		}
 	}
 	
